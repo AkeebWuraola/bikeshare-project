@@ -23,6 +23,8 @@ This project explores data related to bike share systems for three major cities 
 * The youngest user (if available)
 * The most common birth year amongst users (if available)
 
+The user is prompted with the choice of consecutively viewing at a glance first 5 rows of data from the city dataset.
+
 ## PROGRAM ACCESS
 Running the word 'python bikeshare.py' on your terminal begins the interactive session.
 
